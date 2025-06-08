@@ -1,2 +1,5 @@
 *.contentFlavour
 *.contentVisibility
+com.apple.recovery.boot
+System Volume Information
+opencore-*
